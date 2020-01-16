@@ -1,6 +1,6 @@
 # CLI Pairing App
 
-Your project today is a small version of your group projects next week! Your job is ot create ONE model and connect it to Active Record, and create a CLI app (command line interface) that will let your app's users perform CRUD actions.
+Your project today is a small version of your group projects next week! Your job is to create ONE model, connect it to Active Record, and create a CLI app (command line interface) that will let your app's users perform CRUD actions.
 
 Here are the user stories your app should have:
 
