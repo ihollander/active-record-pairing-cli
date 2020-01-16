@@ -40,3 +40,5 @@ If you're feeling confident about OOP, have a look at the `bin/run_cli.rb` file 
 
 If you're less confident about OOP, there's also a `bin/run.rb` file with some code defined for starting your CLI application. To test your app, from the terminal, run `ruby bin/run.rb`.
 
+## Helpful Hints
+- Consider writing helper methods in your model! For example, you might make a class method like `Game#print_all` that iterates through all the Game instances and formats them in a nice way to display in the terminal.
